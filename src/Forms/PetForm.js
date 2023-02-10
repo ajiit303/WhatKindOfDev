@@ -11,8 +11,8 @@ function PetForm() {
         </span>
         <span>
         <br />
-        <input type="checkbox" id="pet" name="pet" value="Dog" />          
-        <label htmlFor="pet">Dogs 🐶</label>
+        <input type="checkbox" id="dog" name="dog" value="Dog" />          
+        <label htmlFor="dog">Dogs 🐶</label>
       </span>
     </div>
   );
